@@ -1,0 +1,247 @@
+[
+  {
+    "possible_answers": "wet, cheerful, bright, still, happy",
+    "correct_answer": "bright",
+    "question": "Which word is closest in meaning to murky?"
+  },
+  {
+    "possible_answers": "unwise, profuse, moral, ample, absent",
+    "correct_answer": "profuse",
+    "question": "Which word is closest in meaning to scarce?"
+  },
+  {
+    "possible_answers": "continue, promote, intensify, quell, substantiate",
+    "correct_answer": "substantiate",
+    "question": "Which word is closest in meaning to contradict?"
+  },
+  {
+    "possible_answers": "fatuous, irrelevant, therapeutic, contrary, rash",
+    "correct_answer": "contrary",
+    "question": "Which word is closest in meaning to similar?"
+  },
+  {
+    "possible_answers": "rigid, baroque, faltering, bare, effective",
+    "correct_answer": "faltering",
+    "question": "Which word is closest in meaning to fluent?"
+  },
+  {
+    "possible_answers": "saturation, remuneration, tradition, reflection, perdition",
+    "correct_answer": "perdition",
+    "question": "Which word is closest in meaning to salvation?"
+  },
+  {
+    "possible_answers": "eerie, secure, active, restrained, sad",
+    "correct_answer": "secure",
+    "question": "Which word is closest in meaning to hazardous?"
+  },
+  {
+    "possible_answers": "wise, foolproof, enlarged, frugal, weak",
+    "correct_answer": "frugal",
+    "question": "Which word is closest in meaning to wasteful?"
+  },
+  {
+    "possible_answers": "lucid, ignorant, angry, subtle, strong",
+    "correct_answer": "subtle",
+    "question": "Which word is closest in meaning to candid?"
+  },
+  {
+    "possible_answers": "sparse, unsociable, graceful, weak, confused",
+    "correct_answer": "unsociable",
+    "question": "Which word is closest in meaning to gregarious?"
+  },
+  {
+    "possible_answers": "litigate, proffer, spread, proscribe, disagree",
+    "correct_answer": "proscribe",
+    "question": "Which word is closest in meaning to allow?"
+  },
+  {
+    "possible_answers": "bob, train, sail, bow, genuflect",
+    "correct_answer": "bow",
+    "question": "Which word is closest in meaning to rear?"
+  },
+  {
+    "possible_answers": "rich, free, elevated, petty, perverse",
+    "correct_answer": "petty",
+    "question": "Which word is closest in meaning to important?"
+  },
+  {
+    "possible_answers": "neglected, brief, palpable, rude, devious",
+    "correct_answer": "rude",
+    "question": "Which word is closest in meaning to diplomatic?"
+  },
+  {
+    "possible_answers": "capture, captivate, diminish, hide, convict",
+    "correct_answer": "convict",
+    "question": "Which word is closest in meaning to absolve?"
+  },
+  {
+    "possible_answers": "climax, liking, flavour, apathy, reluctance",
+    "correct_answer": "apathy",
+    "question": "Which word is closest in meaning to zest?"
+  },
+  {
+    "possible_answers": "trouble, drivel, joy, passion, calm",
+    "correct_answer": "calm",
+    "question": "Which word is closest in meaning to turmoil?"
+  },
+  {
+    "possible_answers": "elastic, severed, level, slack, pliant",
+    "correct_answer": "slack",
+    "question": "Which word is closest in meaning to taut?"
+  },
+  {
+    "possible_answers": "popinjay, instructor, gambler, prize-fighter, aviator",
+    "correct_answer": "instructor",
+    "question": "Which word is closest in meaning to neophyte?"
+  },
+  {
+    "possible_answers": "humane, erudite, solid, animated, healthy",
+    "correct_answer": "animated",
+    "question": "Which word is closest in meaning to phlegmatic?"
+  },
+  {
+    "possible_answers": "CHECK (stay, accelerate, monitor, foil, win)",
+    "correct_answer": "accelerate",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "INVARIABLE (valueless, viable, genuine, flexible, simple)",
+    "correct_answer": "flexible",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "RIBALD (genteel, attractive, serious, ethical, austere)",
+    "correct_answer": "genteel",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "TOUCHY (obedient, fortunate, genial, sympathetic, durable)",
+    "correct_answer": "genial",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "TOTALITARIAN (democratic, fair, political, partial, conservative)",
+    "correct_answer": "democratic",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "UNACCOUNTABLE (desirable, honest, potent, comprehensible, absolute)",
+    "correct_answer": "comprehensible",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "WIDEN (prevent, compress, encase, hinder, terminate)",
+    "correct_answer": "compress",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "WORKABLE (atypical, amateurish, unfair, inconceivable, garrulous)",
+    "correct_answer": "inconceivable",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "BRUTAL (civil, humane, patient, varying, happy)",
+    "correct_answer": "humane",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "PRODIGIOUS (tiny, tight, unproductive, inept, preposterous)",
+    "correct_answer": "tiny",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "REMOTE (abstract, vital, related, astute, adjacent)",
+    "correct_answer": "adjacent",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "HYPOTHETICAL (academic, cagey, proven, punitive, impressive)",
+    "correct_answer": "proven",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "IMMATURE (old, mundane, wise, mellow, respected)",
+    "correct_answer": "mellow",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "EARTHLY (ethereal, temporal, seasoned, sensual, natural)",
+    "correct_answer": "ethereal",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "DENIGRATE (acknowledge, welcome, enhance, eulogise, master)",
+    "correct_answer": "eulogise",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "PUSILLANIMOUS (bold, cold, pure, sweet, dry)",
+    "correct_answer": "bold",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "COMPOSED (divided, nervous, specific, problematic, unhappy)",
+    "correct_answer": "nervous",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "ASSET (acquisition, tragedy, misfortune, burden, mistake)",
+    "correct_answer": "burden",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "INTRINSIC (elemental, useless, obscure, unnecessary, appended)",
+    "correct_answer": "appended",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "MUSICAL (discordant, loud, lyrical, verbal, euphonious)",
+    "correct_answer": "discordant",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "PROSCRIBE (allow, stifle, promote, verify, indict)",
+    "correct_answer": "allow",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "PLAUSIBLE (appropriate, improbable, cliche, artificial, distasteful)",
+    "correct_answer": "improbable",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "SLEEK (sordid, unimaginative, disorderly, dishevelled, oblique)",
+    "correct_answer": "dishevelled",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "REVERENT (candid, lucid, cheeky, content, culpable)",
+    "correct_answer": "cheeky",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "PALATABLE (sparse, agonising, bland, raw, inferior)",
+    "correct_answer": "bland",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "SENSIBLE (unaware, subordinate, irrational, outlandish, irreverent)",
+    "correct_answer": "irrational",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "IMPECUNIOUS (accessible, tolerant, affluent, flawed, mortal)",
+    "correct_answer": "affluent",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "KNACK (necessity, surplus, ineptitude, facility, quell)",
+    "correct_answer": "ineptitude",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  },
+  {
+    "possible_answers": "MOTLEY (sensible, uniform, smooth, sweet, saturnine)",
+    "correct_answer": "uniform",
+    "question": "Which word in brackets is most opposite to the word in capitals?"
+  }
+]

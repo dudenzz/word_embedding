@@ -1,0 +1,21 @@
+from utilities import load_stf
+import numpy as np
+
+
+vsm = load_stf('//mnt/raid0/kuba/vsm/models/glove.840B.300d.txt',300)
+distrib = np.zeros((len(vsm.dictionary),10))
+oFile = open('test','w+')
+
+
+for j,w in enumerate(vsm.dictionary):
+    if j>1000:
+       break
+    if j % 100 == 0:
+       print j
+    ms = vsm.most_similar(w)
+    for k,s in enumerate(ms):
+        i = vsm.dictionary[s[1]]
+        distrib[i,k	] += 1
+
+
+numpy.save(oFile,distrib)
