@@ -1,4 +1,4 @@
-__author__ = 'Asus'
+__author__ = 'Jakub Dutkiewicz'
 
 class QuestionBase:
     #possible question types:
