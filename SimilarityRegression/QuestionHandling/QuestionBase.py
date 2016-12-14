@@ -1,5 +1,6 @@
 __author__ = 'Jakub Dutkiewicz'
 import numpy as np
+from scipy.stats import spearmanr
 
 class QuestionBase:
 
@@ -41,13 +42,13 @@ class QuestionBase:
         stdDevB = np.sqrt(stdDevB)
 
         plotted = []
-        for i in len(self.sims):
+        for i in range(len(self.sims)):
             plotted.append(self.sims[i]*self.simCalcs[i])
 
         EA = 0
         EB = 0
         EAB = 0
-        for i in len(self.sims):
+        for i in range(len(self.sims)):
             EA += self.sims[i]
             EB += self.simCalcs[i]
             EAB += plotted[i]
@@ -63,7 +64,8 @@ class QuestionBase:
     def classify(self,Classifier, oFile):
         self.simCalcs = []
         for i in range(self.word1.__len__()):
-            similarity = Classifier.classify(self.word1[i],self.word2[i])
+            similarity = Classifier.Similarity(self.word1[i],self.word2[i])
             self.simCalcs.append(similarity)
-            oFile.write(self.word1 + " " + self.word2 + " " + str(self.sims[i]) + " " + str(self.simCalcs[i]) + "\n")
+            oFile.write(self.word1[i] + " " + self.word2[i] + " " + str(self.sims[i]) + " " + str(self.simCalcs[i]) + "\n")
         oFile.write(str(self.evaluate()))
+        oFile.write(spearmanr(self.sims,self.simCalcs)

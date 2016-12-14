@@ -3,11 +3,11 @@ import sys
 import getopt
 
 
-from SimilarityRegression.QuestionHandling.QuestionBase import QuestionBase
-from SimilarityRegression.Classifiers.GloveClassifier import GloveClassifier
-from SimilarityClassification.Utils.utilities import load_stf
-from SimilarityClassification.Utils.retrofitNew_gloveInstance import retrofit_new
-from SimilarityClassification.Utils.retrofitNew_gloveInstance import read_lexicon
+from QuestionHandling.QuestionBase import QuestionBase
+from Classifiers.GloveClassifier import GloveClassifier
+from Utils.utilities import load_stf
+from Utils.retrofitNew_gloveInstance import retrofit_new
+from Utils.retrofitNew_gloveInstance import read_lexicon
 import numpy as np
 
 help_message = '''
