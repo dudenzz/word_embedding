@@ -68,4 +68,4 @@ class QuestionBase:
             self.simCalcs.append(similarity)
             oFile.write(self.word1[i] + " " + self.word2[i] + " " + str(self.sims[i]) + " " + str(self.simCalcs[i]) + "\n")
         oFile.write(str(self.evaluate()))
-        oFile.write(spearmanr(self.sims,self.simCalcs)
+        oFile.write(spearmanr(self.sims,self.simCalcs))
